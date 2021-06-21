@@ -482,50 +482,56 @@ def menu():
         print("\033[35m  [\033[33m*\033[35m]\033[34m 17.More Tools")
         print("\033[35m  [\033[33m*\033[35m]\033[31m 18. Exit")
         print("")
-        inp=input("\033[35m  [\033[33m*\033[35m]\033[36m Enter Your Option  >>> ")
-        if inp == "1":
-            pingtest()
-        if inp == "2":
-            whois()
-        if inp == "3":
-            geoip()
-        if inp == "4":
-            reverseip()
-        if inp == "5":
-            dnslookup()
-        if inp == "6":
-            reversedns()
-        if inp == "7":
-            dnshost()
-        if inp == "8":
-            shareddns()
-        if inp == "9":
-            tcpport()
-        if inp == "10":
-            subnet()
-        if inp == "11":
-            headercheck()
-        if inp == "12":
-            zonetransfer()
-        if inp == "13":
-            pagelink()
-        if inp == "14":
-            traceout()
-        if inp == "15":
-            about()
-        if inp == "16":
-            update()
-        if inp == "17":
-            os.system('am start -a android.intent.action.VIEW -d https://github.com/isuruwa')
-        if inp == "18":
-            exit()
-        if inp == "":
-            menu()
-        else:
-            print("\033[35m  [\033[33m*\033[35m]\033[31m Invalid Choice")
-            time.sleep(1)
-            menu()
+ try:
+    inp=input("\033[35m  [\033[33m*\033[35m]\033[36m Enter Your Option  >>> ")
+    if inp == "1":
+        pingtest()
+    if inp == "2":
+        whois()
+    if inp == "3":
+        geoip()
+    if inp == "4":
+        reverseip()
+    if inp == "5":
+        dnslookup()
+    if inp == "6":
+        reversedns()
+    if inp == "7":
+        dnshost()
+    if inp == "8":
+        shareddns()
+    if inp == "9":
+        tcpport()
+    if inp == "10":
+        subnet()
+    if inp == "11":
+        headercheck()
+    if inp == "12":
+        zonetransfer()
+    if inp == "13":
+        pagelink()
+    if inp == "14":
+        traceout()
+    if inp == "15":
+        about()
+    if inp == "16":
+        update()
+    if inp == "17":
+        os.system('am start -a android.intent.action.VIEW -d https://github.com/isuruwa')
+    if inp == "18":
+        exit()
+    if inp == "":
+        menu()
+    else:
+        print("\033[35m  [\033[33m*\033[35m]\033[31m Invalid Choice")
+        time.sleep(1)
+        menu()
+ except:
+    print("\033[35m  [\033[33m*\033[35m]\033[31m SCRIPT STOPING ...")
+    time.sleep(1)
+    quit()
+    
+menu()  
 
 
-
-menu()
+    
