@@ -4,6 +4,9 @@
 <img src="https://img.icons8.com/doodle/256/000000/find-my.png"/>
 <p align="center">
 <a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-THUNTER-blueviolet?style=for-the-badge&logo=appveyor"></a>
+<p align="center">
+<img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=isuruwa" />
+</p>
 <br>
 
 <p align="left">
