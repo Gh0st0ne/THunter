@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+#CODED BY ISURUWA
 
 #--- Color  ---#
 W  = '\033[0m'  # white (default)
@@ -161,11 +162,11 @@ def update():
     print("")
     print("\033[35m  [\033[33m*\033[35m]\033[1;32m Updating ... ")
     os.system('cd')
-    os.system('rm -rf SMS')
-    os.system('git clone https://github.com/isuruwa/SMS')
-    os.system('cd SMS')
+    os.system('rm -rf THunter')
+    os.system('git clone https://github.com/isuruwa/THunter')
+    os.system('cd THunter')
     os.system('pip install -r requirements.txt')
-    os.system('python sms.py')
+    os.system('python thunter.py')
 
 ############## About #####################################
 
@@ -202,7 +203,7 @@ def exit():
     print("")
     print("\033[35m  [\033[33m*\033[35m]\033[1;32mCODED \033[33mBY \033[36mISURUWA")
     print("")
-    os.system('exit')
+    quit()
 
 
 ##################### Traceout #####################
