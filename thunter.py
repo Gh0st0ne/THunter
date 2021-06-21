@@ -493,11 +493,11 @@ def menu():
             if inp == "4":
               reverseip()
             if inp == "5":
-               dnslookup()
+              dnslookup()
             if inp == "6":
-               reversedns()
+              reversedns()
             if inp == "7":
-               dnshost()
+              dnshost()
             if inp == "8":
               shareddns()
             if inp == "9":
@@ -505,9 +505,9 @@ def menu():
             if inp == "10":
               subnet()
             if inp == "11":
-               headercheck()
+              headercheck()
             if inp == "12":
-               zonetransfer()
+              zonetransfer()
             if inp == "13":
               pagelink()
             if inp == "14":
@@ -515,13 +515,13 @@ def menu():
             if inp == "15":
               about()
             if inp == "16":
-               update()
+              update()
             if inp == "17":
               os.system('am start -a android.intent.action.VIEW -d https://github.com/isuruwa')
             if inp == "18":
               exit()
             if inp == "":
-               menu()
+              menu()
             else:
               print("\033[35m  [\033[33m*\033[35m]\033[31m Invalid Choice")
               time.sleep(1)
@@ -530,7 +530,6 @@ def menu():
            print("\033[35m  [\033[33m*\033[35m]\033[31m SCRIPT STOPING ...")
            time.sleep(1)
            quit()
-
 
 
 menu()
