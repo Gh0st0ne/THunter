@@ -13,10 +13,15 @@
 ## ABOUT TOOL : <img src="https://img.icons8.com/bubbles/50/000000/night-lady.png"/>
   
 THUNTER is a python based scanner which interact with the Hacker Target Api for All Ip Tools .
+  
+</p>
+
+<br>
  
-  
+
+<p>
+    
 <a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-Features-ff69b4?style=for-the-badge&logo=appveyor"></a>
-  
  
 ## FEATURES : <img src="https://img.icons8.com/bubbles/50/000000/night-lady.png"/>
   
@@ -37,6 +42,10 @@ THUNTER is a python based scanner which interact with the Hacker Target Api for 
 * [13] HTTP Header Check
 * [14] Extract Page Links
   
+  
+</p>
+
+<br>
 
 <a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-Available-brightgreen?style=for-the-badge&logo=appveyor"></a>
   
