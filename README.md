@@ -93,3 +93,6 @@ THUNTER is a python based scanner which interact with the Hacker Target Api for 
 
 <img src="https://img.shields.io/badge/isuruwa-EXPECT%20US-red?style=for-the-badge&logo=appveyor"/>
 
+# SCREENSHOTS
+
+![Screenshot_20210621-231658_Termux](https://user-images.githubusercontent.com/72663288/122807056-bbcdbb80-d2e8-11eb-9621-d90b446703bf.jpg)
