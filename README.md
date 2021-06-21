@@ -63,7 +63,7 @@ THUNTER is a python based scanner which interact with the Hacker Target Api for 
 ```
 [+]-- Need A Internet Connection tO Continue
 [+]-- Only For Educational Purposes
-[+]-- Developer Is Not Responsible For any Misuse OF IMGHIDE Tool
+[+]-- Developer Is Not Responsible For any Misuse OF THUNTER Tool
   
 ```
   
