@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/isuruwa-ABOUT%20TOOL-blueviolet?style=for-the-badge&logo=appveyor">  
 
-## ABOUT TOOL : 
+## ABOUT TOOL : <img src="https://img.icons8.com/bubbles/50/000000/night-lady.png"/>
   
 THUNTER is a python based scanner which interact with the Hacker Target Api for All Ip Tools .
  
@@ -18,7 +18,7 @@ THUNTER is a python based scanner which interact with the Hacker Target Api for 
 <a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-Features-ff69b4?style=for-the-badge&logo=appveyor"></a>
   
  
-## FEATURES : 
+## FEATURES : <img src="https://img.icons8.com/bubbles/50/000000/night-lady.png"/>
   
 1.All IP TOOLS in a One Scanner .
 
@@ -41,7 +41,7 @@ THUNTER is a python based scanner which interact with the Hacker Target Api for 
 <a href="https://github.com/isuruwa"><img title="addon" src="https://img.shields.io/badge/isuruwa-Available-brightgreen?style=for-the-badge&logo=appveyor"></a>
   
 
-## AVAILABLE ON :
+## AVAILABLE ON : <img src="https://img.icons8.com/bubbles/50/000000/night-lady.png"/>
   
 * Termux
 
@@ -49,7 +49,7 @@ THUNTER is a python based scanner which interact with the Hacker Target Api for 
   
 <img src="https://img.icons8.com/color/100/000000/hawkeye.png"/>
   
-## INSTALLATION [Termux] :
+## INSTALLATION [Termux] [linux] : <img src="https://img.icons8.com/bubbles/50/000000/night-lady.png"/>
   
 * `apt-get update -y`
 * `apt-get upgrade -y`
